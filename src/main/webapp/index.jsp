@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Maven Web Project</h1>
-<a href="hello">Go to Hello Servlet</a>
+<h2>Welcome! Maven Web Project is running.</h2>
+<p><a href="hello">Click here for servlet output</a></p>
 </body>
 </html>
