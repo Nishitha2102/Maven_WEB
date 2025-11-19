@@ -1,1 +1,1 @@
-# MavenWeb
+# MavenWeb project for SE
